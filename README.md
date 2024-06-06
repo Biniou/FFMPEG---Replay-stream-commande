@@ -10,5 +10,6 @@ Pense béte pour les relay des soirée stream.
 4) Utiliser le ExtractMP3.sh pour extraire l'audio
 
 A Faire prochainement :
-Metadata des MP3 a travailler
-Script global
+1) Metadata des MP3 
+2)  Script global
+
